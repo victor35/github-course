@@ -1,0 +1,4 @@
+git reset --soft|mixed|hard hash da comite anterior que voce quer desfazer 
+--soft : ele tira o commit e coloca o commit em staged junto com as modificações
+--mixed: ele tira o commit e coloca o commit em untracking junto com as modificações
+-- hard: ele retira o commit por completo
