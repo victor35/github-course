@@ -1,0 +1,8 @@
+untracked: arquivo adicionado no repositório, porém o git ainda não reconhece em nen
+huma versão.
+ 
+unmodified: arquivo adicionado no git, mas sem modificações.
+
+modificado: editando o arquivo que está unmodified
+
+staged: depois de modificar o arquivo voce "staged" ele, preara ele para o commit, e então o arquivo volta para unmodified
